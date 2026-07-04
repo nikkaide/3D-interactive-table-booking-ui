@@ -19,7 +19,7 @@ The application follows a seamless 5-step interactive booking loop:
 5. **Status Update:** The table status instantly changes to booked, turning red to update the live system state.
 
 ## 🔗 Live Demo
-👉 **[Click here to view the live application]([PASTE_YOUR_LIVE_LINK_HERE](https://labtest-367bb.web.app/))**
+👉 **[Click here to view the live application](https://labtest-367bb.web.app/)**
 
 ## 🛠️ Tech Stack
 * **Frontend & Styling:** TailwindCSS + DaisyUI
