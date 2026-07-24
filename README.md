@@ -1,25 +1,23 @@
-# 🎮 3D Restaurant Table Reservation System
+#  E-Commerce Web UI
 
-An interactive, responsive web application that reimagines traditional restaurant bookings by letting customers explore a live 3D diner floor plan to pick their exact seating booth.
+A simple e-commerce user interface created as a front-end practice project using Tailwind CSS, daisyUI, and Firebase Hosting.
 
 ## 🚀 Key Features
-* **Interactive 3D Floor Plan:** Rotate, zoom, and navigate the diner space directly in the browser to select booths.
-* **Real-Time Table Status:** Visual color-coding indicates whether tables are Available, Selected, or Already Booked.
-* **Complete Booking Flow:** Integrated reservation sidebar collecting guest count, customer details, dates, and time slots.
-* **Responsive Layout:** Built with utility-first design principles ensuring a clean desktop and mobile experience.
+Clean e-commerce homepage layout
 
-## 🗺️ How It Works (User Workflow)
+Featured product cards
 
-The application follows a seamless 5-step interactive booking loop:
+Shopping-cart icon and item-count badge
 
-1. **View Layout:** The user views the dynamic 3D restaurant layout directly in their browser.
-2. **Select Table:** The user clicks a table within the 3D space to select it.
-3. **Display Information:** Selected table information (such as table number and seat capacity) is automatically updated and displayed.
-4. **Fill Details:** The user fills in their booking details in the reservation panel and clicks **Book Now**.
-5. **Status Update:** The table status instantly changes to booked, turning red to update the live system state.
+Reusable daisyUI components
+
+Tailwind CSS utility-based styling
+
+Deployed with Firebase Hosting
 
 ## 🔗 Live Demo
-👉 **[Click here to view the live application](https://labtest-367bb.web.app/)**
+👉 **[Click here to view the live Web](https://lab-assignment-302b5.web.app/)**
+<img width="932" height="872" alt="image" src="https://github.com/user-attachments/assets/c5340152-a611-4e9b-93bf-9e7cdcd0d51d" />
 
 ## 🛠️ Tech Stack
 * **Frontend & Styling:** TailwindCSS + DaisyUI
