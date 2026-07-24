@@ -27,10 +27,3 @@ An interactive, responsive web application that reimagines traditional restauran
 * **Deployment & Hosting:** Firebase Hosting
 
 
-## ⚙️ Local Setup Instructions
-
-Follow these steps to run the project locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/nikkaide/3d-restaurant-reservation.git](https://github.com/nikkaide/3d-restaurant-reservation.git)
